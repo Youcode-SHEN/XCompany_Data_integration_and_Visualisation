@@ -1,0 +1,26 @@
+{
+  "itemId" : "_mN80UEdOEe6bO5ImZERZPA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_V2pZAEfuEe6A1oehZnhnXQ",
+    "parameterList" : [ {
+      "id" : "_V2zKAkfuEe6A1oehZnhnXQ",
+      "name" : "mehdi_dw_Schema"
+    }, {
+      "id" : "_V2zKBUfuEe6A1oehZnhnXQ",
+      "name" : "mehdi_dw_Login"
+    }, {
+      "id" : "_V2zKAUfuEe6A1oehZnhnXQ",
+      "name" : "mehdi_dw_Port"
+    }, {
+      "id" : "_V2zKA0fuEe6A1oehZnhnXQ",
+      "name" : "mehdi_dw_Server"
+    }, {
+      "id" : "_V2zKBkfuEe6A1oehZnhnXQ",
+      "name" : "mehdi_dw_Database"
+    }, {
+      "id" : "_V2zKB0fuEe6A1oehZnhnXQ",
+      "name" : "mehdi_dw_Password"
+    } ]
+  } ]
+}

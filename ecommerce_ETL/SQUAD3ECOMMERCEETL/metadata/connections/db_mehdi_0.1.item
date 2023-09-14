@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_6NKgYEaAEe6eYZrSoutQqQ" name="db_mehdi" id="_QUup4EaAEe6eYZrSoutQqQ" label="db_mehdi" dataPackage="_2bKY8EaBEe6eYZrSoutQqQ" ContextMode="true" ContextId="_wOgCYEaBEe6eYZrSoutQqQ" contextName="Default" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://192.168.137.1:1433/stagingArea;" dbVersionString="JTDS" Port="context.db_mehdi_Port" Username="context.db_mehdi_Login" Password="context.db_mehdi_Password" ServerName="context.db_mehdi_Server" DatasourceName="" FileFieldName="" SID="context.db_mehdi_Database" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="context.db_mehdi_AdditionalParams" StandardSQL="true" SQLMode="false" UiSchema="context.db_mehdi_Schema">
+    <taggedValue xmi:id="_6NKgYUaAEe6eYZrSoutQqQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_6Njh8EaAEe6eYZrSoutQqQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_6NnMUEaAEe6eYZrSoutQqQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_6NnMUUaAEe6eYZrSoutQqQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_6NnMUkaAEe6eYZrSoutQqQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_6NnMU0aAEe6eYZrSoutQqQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_6NnMVEaAEe6eYZrSoutQqQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_6NnMVUaAEe6eYZrSoutQqQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_6N3rAEaAEe6eYZrSoutQqQ" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_6N3rAUaAEe6eYZrSoutQqQ" tag="DB ProductVersion" value="16.00.1000"/>
+    <taggedValue xmi:id="_6N3rAkaAEe6eYZrSoutQqQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_6NKgYkaAEe6eYZrSoutQqQ" key="CONN_PARA_KEY_USERNAME" value="context.db_mehdi_Login"/>
+    <parameters xmi:id="_pAY14EaBEe6eYZrSoutQqQ" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_2bKY8EaBEe6eYZrSoutQqQ" name="stagingArea" dataManager="_6NKgYEaAEe6eYZrSoutQqQ">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_2bKY8UaBEe6eYZrSoutQqQ" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_WV-ZUEfuEe6A1oehZnhnXQ" name="mehdi_dw" id="_baG3AEftEe6A1oehZnhnXQ" label="mehdi_dw" dataPackage="_A-rLEEjfEe6VzpnaHNsj6A" contextName="Default" DatabaseType="Microsoft SQL Server" DriverJarPath="" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://localhost:1433/EcommerceDW;" dbVersionString="JTDS" Port="1433" Username="" Password="" ServerName="localhost" DatasourceName="" FileFieldName="" SID="EcommerceDW" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" DBRootPath="" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_WV-ZUUfuEe6A1oehZnhnXQ" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_WWWz0EfuEe6A1oehZnhnXQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_WWbsUEfuEe6A1oehZnhnXQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_WWbsUUfuEe6A1oehZnhnXQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_WWbsUkfuEe6A1oehZnhnXQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_WWbsU0fuEe6A1oehZnhnXQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_WWbsVEfuEe6A1oehZnhnXQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_WWbsVUfuEe6A1oehZnhnXQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_5UKGkEgGEe6A1oehZnhnXQ" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_5UKGkUgGEe6A1oehZnhnXQ" tag="DB ProductVersion" value="16.00.1000"/>
+    <taggedValue xmi:id="_5UKGkkgGEe6A1oehZnhnXQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_WV-ZUkfuEe6A1oehZnhnXQ" key="CONN_PARA_KEY_USERNAME" value=""/>
+    <parameters xmi:id="_1e0ckEjeEe6VzpnaHNsj6A" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_A-rLEEjfEe6VzpnaHNsj6A" name="EcommerceDW" dataManager="_WV-ZUEfuEe6A1oehZnhnXQ">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_A-rLEUjfEe6VzpnaHNsj6A" name="db_accessadmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_A-rLEkjfEe6VzpnaHNsj6A" name="db_backupoperator"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_A-rLE0jfEe6VzpnaHNsj6A" name="db_datareader"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_A-rLFEjfEe6VzpnaHNsj6A" name="db_datawriter"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_A-rLFUjfEe6VzpnaHNsj6A" name="db_ddladmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_A-rLFkjfEe6VzpnaHNsj6A" name="db_denydatareader"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_A-rLF0jfEe6VzpnaHNsj6A" name="db_denydatawriter"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_A-rLGEjfEe6VzpnaHNsj6A" name="db_owner"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_A-rLGUjfEe6VzpnaHNsj6A" name="db_securityadmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_A-rLGkjfEe6VzpnaHNsj6A" name="dbo"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_A-rLG0jfEe6VzpnaHNsj6A" name="guest"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_A-rLHEjfEe6VzpnaHNsj6A" name="INFORMATION_SCHEMA"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_A-rLHUjfEe6VzpnaHNsj6A" name="sys"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

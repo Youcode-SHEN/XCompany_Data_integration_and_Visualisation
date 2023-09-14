@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_wOsPoEaBEe6eYZrSoutQqQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_wOsPoUaBEe6eYZrSoutQqQ" comment="" name="db_mehdi_Port" prompt="db_mehdi_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433"/>
+  <contextParameter xmi:id="_wOsPokaBEe6eYZrSoutQqQ" comment="" name="db_mehdi_Database" prompt="db_mehdi_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="stagingArea"/>
+  <contextParameter xmi:id="_wOsPo0aBEe6eYZrSoutQqQ" comment="" name="db_mehdi_Login" prompt="db_mehdi_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DataEngineer"/>
+  <contextParameter xmi:id="_wOsPpEaBEe6eYZrSoutQqQ" comment="" name="db_mehdi_Schema" prompt="db_mehdi_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dbo"/>
+  <contextParameter xmi:id="_wOsPpUaBEe6eYZrSoutQqQ" comment="" name="db_mehdi_Password" prompt="db_mehdi_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:/cVRa+GMs6DaitrmYuiByYfSYZDh9IkqYObPe9zwn7QmBwrTQZ32qpJt"/>
+  <contextParameter xmi:id="_wOsPpkaBEe6eYZrSoutQqQ" comment="" name="db_mehdi_Server" prompt="db_mehdi_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="192.168.137.1"/>
+  <contextParameter xmi:id="_wOsPp0aBEe6eYZrSoutQqQ" comment="" name="db_mehdi_AdditionalParams" prompt="db_mehdi_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="instance=SQLEXPRESS"/>
+</talendfile:ContextType>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_V2zKAEfuEe6A1oehZnhnXQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_V2zKAUfuEe6A1oehZnhnXQ" comment="" name="mehdi_dw_Port" prompt="mehdi_dw_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433"/>
+  <contextParameter xmi:id="_V2zKAkfuEe6A1oehZnhnXQ" comment="" name="mehdi_dw_Schema" prompt="mehdi_dw_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_V2zKA0fuEe6A1oehZnhnXQ" comment="" name="mehdi_dw_Server" prompt="mehdi_dw_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="192.168.137.1"/>
+  <contextParameter xmi:id="_V2zKBUfuEe6A1oehZnhnXQ" comment="" name="mehdi_dw_Login" prompt="mehdi_dw_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DataEngineer"/>
+  <contextParameter xmi:id="_V2zKBkfuEe6A1oehZnhnXQ" comment="" name="mehdi_dw_Database" prompt="mehdi_dw_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="EcommerceDW"/>
+  <contextParameter xmi:id="_V2zKB0fuEe6A1oehZnhnXQ" comment="" name="mehdi_dw_Password" prompt="mehdi_dw_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:rvDXtKMaNj/QugOdboed/X2UkXdQZtN4lDDbCLehlA6ZX37qOYovFPmm"/>
+  <contextParameter xmi:id="_ejFQwEgGEe6A1oehZnhnXQ" comment="" name="db_mehdi_AdditionalParams" prompt="db_mehdi_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="istance=SQLEXPRESS"/>
+</talendfile:ContextType>

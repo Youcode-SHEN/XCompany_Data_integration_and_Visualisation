@@ -1,0 +1,29 @@
+{
+  "itemId" : "_sBhRAEWDEe6ncZtVlW_xWA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_wOgCYEaBEe6eYZrSoutQqQ",
+    "parameterList" : [ {
+      "id" : "_wOsPpEaBEe6eYZrSoutQqQ",
+      "name" : "db_mehdi_Schema"
+    }, {
+      "id" : "_wOsPokaBEe6eYZrSoutQqQ",
+      "name" : "db_mehdi_Database"
+    }, {
+      "id" : "_wOsPpkaBEe6eYZrSoutQqQ",
+      "name" : "db_mehdi_Server"
+    }, {
+      "id" : "_wOsPoUaBEe6eYZrSoutQqQ",
+      "name" : "db_mehdi_Port"
+    }, {
+      "id" : "_wOsPp0aBEe6eYZrSoutQqQ",
+      "name" : "db_mehdi_AdditionalParams"
+    }, {
+      "id" : "_wOsPpUaBEe6eYZrSoutQqQ",
+      "name" : "db_mehdi_Password"
+    }, {
+      "id" : "_wOsPo0aBEe6eYZrSoutQqQ",
+      "name" : "db_mehdi_Login"
+    } ]
+  } ]
+}
